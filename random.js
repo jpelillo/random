@@ -8,3 +8,4 @@ if (numero <= 0.5){
 }
 
 console.log('\n' + numero + str + '\n');
+console.log('\nNuebva línea para probar version');
